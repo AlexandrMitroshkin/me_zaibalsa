@@ -1,4 +1,4 @@
 print('Hello wold')
 
 
-print('ля какой комит')
+print('ля какой комит    :)')
