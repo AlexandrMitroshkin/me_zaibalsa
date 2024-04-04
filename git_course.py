@@ -1,3 +1,1 @@
-print('Hello wold')
-
-print('[p')
+print('yфф')
